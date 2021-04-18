@@ -9,7 +9,7 @@ package chapter13_3;
  *
  * @author Miranda and Warren
  */
-public class Chapter13_3 {
+public class Tester {
 
     /**
      * @param args the command line arguments
